@@ -1,7 +1,6 @@
-- Hi, I’m Emi 👋
-- I’m a 3rd year math major at UC Irvine studying Data Science👩🏻‍💻
-- I’m currently doing a research on numerical analysis🧮
-- How to reach me: emiicervantes9@gmail.com 📧
+Hello👋 My name is Emi (she/her) and I am a third-year student at UC Irvine studying Mathematics with a concentration in Data Science🐣
+
+Email: emiicervantes9@gmail.com 📧
 
 <!---
 emicervantes/emicervantes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

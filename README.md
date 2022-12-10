@@ -2,6 +2,7 @@ Hello👋 My name is Emi (she/her), and I am a third-year student at UC Irvine s
 
 
 LinkedIn: https://www.linkedin.com/in/emicervantes/
+
 Email: emiicervantes9@gmail.com 📧
 
 <!---

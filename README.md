@@ -1,6 +1,6 @@
 Hello👋 
 
-My name is Emi (she/her), and I am a fourth-year student at UC Irvine studying Mathematics with a concentration in Data Science👩🏻‍💻📈 I work on research projects focused on Data Science and its application to Education Sciences. Looking toward the future, I aim to attend graduate school after completing my undergraduate studies and participate in exciting research projects!
+My name is Emi (she/her), and I am a fourth-year student at UC Irvine studying Mathematics with a concentration in Data Science👩🏻‍💻📈 I work on research projects focused on Data Science. Looking toward the future, I aim to attend graduate school after completing my undergraduate studies and participate in exciting research projects!
 
 LinkedIn🤝: https://www.linkedin.com/in/emicervantes/
 

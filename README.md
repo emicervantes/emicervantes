@@ -1,12 +1,12 @@
 Hello👋 
 
-My name is Emi (she/her), and I am a Statistics Ph.D. student at Penn State University📈 I work on research projects focused on Data Science and education. 
+My name is Emi (she/her), and I am a Statistics Ph.D. student at Penn State University📈
 
-LinkedIn🤝: https://www.linkedin.com/in/emicervantes/
+LinkedIn: https://www.linkedin.com/in/emicervantes/
 
-Email📧: emicer950@gmail.com 
+Email: emicer950@gmail.com 
 
-Website💻: https://emic.netlify.app/
+Website: https://emic.netlify.app/
 
 <!---
 emicervantes/emicervantes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

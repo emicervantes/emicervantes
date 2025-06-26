@@ -1,6 +1,6 @@
 Hello👋 
 
-My name is Emi (she/her), and I am a Statistics Ph.D. student at Penn State University📈
+My name is Emi (she/her), and I am a Statistics Ph.D. student at Penn State.
 
 LinkedIn: https://www.linkedin.com/in/emicervantes/
 
